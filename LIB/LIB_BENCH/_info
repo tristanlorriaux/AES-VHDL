@@ -1,0 +1,85 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/tristan/aes_ei19
+Ecounter_tb
+Z1 w1609077262
+Z2 DPx7 lib_aes 10 crypt_pack 0 22 2k?]aCO^JPSi][SfGG[mV3
+Z3 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 0
+R0
+Z6 8./SRC/BENCH/counter_tb.vhd
+Z7 F./SRC/BENCH/counter_tb.vhd
+l0
+L17 1
+VgB8NBHd4dl1K[zmS?PiI82
+!s100 4_i4zLL@BA16_CBka6]I;3
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1610386797
+!i10b 1
+Z10 !s108 1610386797.000000
+Z11 !s90 -work|LIB_BENCH|./SRC/BENCH/counter_tb.vhd|
+!s107 ./SRC/BENCH/counter_tb.vhd|
+!i113 1
+Z12 o-work LIB_BENCH
+Z13 tExplicit 1 CvgOpt 0
+Acounter_tb_arch
+R2
+R3
+R4
+R5
+Z14 DEx4 work 10 counter_tb 0 22 gB8NBHd4dl1K[zmS?PiI82
+!i122 0
+l33
+L20 27
+V3D?GGcbK>eDVQ6INO>?BO3
+!s100 kfdmmkh`M`5bGV5LU[D`N1
+R8
+32
+R9
+!i10b 1
+R10
+R11
+Z15 !s107 ./SRC/BENCH/counter_tb.vhd|
+!i113 1
+R12
+R13
+Ccounter_tb_conf
+ecounter_tb
+acounter_tb_arch
+DEx7 lib_rtl 7 counter 0 22 2R7`61VheI6<Ke:^a[VJ_0
+DAx4 work 10 counter_tb 15 counter_tb_arch 22 3D?GGcbK>eDVQ6INO>?BO3
+R2
+R3
+R4
+R5
+R14
+!i122 0
+R1
+R0
+R6
+R7
+l0
+L48 1
+VQWTeR@>aV5SDm:ggHBaDQ0
+!s100 4WU`hQ<LQ[>Qe<=_Hi;bV3
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R15
+!i113 1
+R12
+R13

@@ -1,0 +1,34 @@
+vsim LIB_BENCH.counter_tb
+# vsim LIB_BENCH.counter_tb 
+# Start time: 18:40:07 on Jan 11,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.numeric_std(body)
+# Loading lib_aes.crypt_pack(body)
+# Loading LIB_BENCH.counter_tb(counter_tb_arch)
+# Loading lib_rtl.counter(counter_arch)
+add wave -position insertpoint  \
+sim:/counter_tb/reset_s \
+sim:/counter_tb/enable_s \
+sim:/counter_tb/clock_s \
+sim:/counter_tb/count_s
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# End time: 19:00:10 on Jan 11,2021, Elapsed time: 0:20:03
+# Errors: 0, Warnings: 0
